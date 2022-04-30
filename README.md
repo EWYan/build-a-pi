@@ -11,6 +11,7 @@
  > Codename:       focal  
 - select your compiler-> gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz  
   - https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/downloads
+  - tar -xf ./gcc-arm-11.2-2022.02-x86_64-arm-none-eabi.tar.xz
 - install qemu
   - wget https://download.qemu.org/qemu-2.11.0.tar.xz
   - tar xvf ./qemu-2.11.0.tar.xz
